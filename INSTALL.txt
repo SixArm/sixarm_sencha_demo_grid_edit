@@ -1,0 +1,15 @@
+# Install
+
+1. Download Sencha and put it somewhere the webserver can access it.
+   This is how we serve the Sencha files for CSS, images, and JavaScript.
+   For example, we put it at http://sixarm.com/extjs/
+
+2. Clone this repo and edit the file index.html so it loads Sencha's files:
+   edit the HTML stylesheet href and the script src for the ext-debug file.
+
+3. Edit the file app.js to update this line to wherever you put Sencha's examples:
+
+    Ext.Loader.setPath('Ext.ux', '/extjs/examples/ux');
+  
+4. Use your browser to open the index.html file as an http link, not as a local file.
+   This loads index.html, which loads Sencha, which runs the demo.

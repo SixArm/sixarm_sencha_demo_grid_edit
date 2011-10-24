@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<catalog>
+  <item>
+    <name>Alpha</name>
+    <color>Red</color>
+    <price>2</price>
+    <availability>03/15/2006</availability>
+    <active>true</active>
+  </item>
+  <item>
+    <name>Bravo</name>
+    <color>Green</color>
+    <price>9</price>
+    <availability>03/06/2006</availability>
+    <active>true</active>
+  </item>
+  <item>
+    <name>Charlie</name>
+    <color>Blue</color>
+    <price>6</price>
+    <availability>05/17/2006</availability>
+    <active>false</active>
+  </item>
+</catalog>
