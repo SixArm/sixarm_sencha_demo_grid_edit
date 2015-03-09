@@ -1,4 +1,4 @@
-# SixArm.com » Sencha » Demo » Grid Edit
+# Sencha » Demo » Grid Edit
 
   * Author: Joel Parker Henderson, joel@joelparkerhenderson.com
   * Copyright: Copyright (c) 2011 Joel Parker Henderson
